@@ -1,2 +1,2 @@
 # NER_Comparison
- Flask implementation of NER
+Comparision of NER Libraries
